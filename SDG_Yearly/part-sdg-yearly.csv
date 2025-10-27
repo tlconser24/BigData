@@ -1,0 +1,201 @@
+region_sdg,year,avg_wat_basal_t	
+Australia and New Zealand,2000,99.71229676	
+Australia and New Zealand,2001,99.71124304	
+Australia and New Zealand,2002,99.71219199	
+Australia and New Zealand,2003,99.73436016	
+Australia and New Zealand,2004,99.7563425	
+Australia and New Zealand,2005,99.77814763	
+Australia and New Zealand,2006,99.79977303	
+Australia and New Zealand,2007,99.82124808	
+Australia and New Zealand,2008,99.84255312	
+Australia and New Zealand,2009,99.86367871	
+Australia and New Zealand,2010,99.88314268	
+Australia and New Zealand,2011,99.89196712	
+Australia and New Zealand,2012,99.90077173	
+Australia and New Zealand,2013,99.90958746	
+Australia and New Zealand,2014,99.96148252	
+Australia and New Zealand,2015,99.97000649	
+Australia and New Zealand,2016,99.96996855	
+Australia and New Zealand,2017,99.96993296	
+Australia and New Zealand,2018,99.96989407	
+Australia and New Zealand,2019,99.9698532	
+Australia and New Zealand,2020,99.96981571	
+Australia and New Zealand,2021,99.96977327	
+Australia and New Zealand,2022,99.9697269	
+Australia and New Zealand,2023,99.96968414	
+Australia and New Zealand,2024,99.96963596	
+Central and Southern Asia,2000,78.95880230142858	
+Central and Southern Asia,2001,79.28861664857142	
+Central and Southern Asia,2002,80.02032763428572	
+Central and Southern Asia,2003,80.74870805857144	
+Central and Southern Asia,2004,81.47640189142855	
+Central and Southern Asia,2005,82.2022008142857	
+Central and Southern Asia,2006,82.91790899285714	
+Central and Southern Asia,2007,83.64511258571429	
+Central and Southern Asia,2008,84.37050778	
+Central and Southern Asia,2009,85.09429360571428	
+Central and Southern Asia,2010,85.81696818285715	
+Central and Southern Asia,2011,86.53850869714286	
+Central and Southern Asia,2012,87.25861394	
+Central and Southern Asia,2013,87.97717559285714	
+Central and Southern Asia,2014,88.69425389857143	
+Central and Southern Asia,2015,89.40980936857143	
+Central and Southern Asia,2016,90.11194673142857	
+Central and Southern Asia,2017,90.81051012	
+Central and Southern Asia,2018,91.49723612	
+Central and Southern Asia,2019,92.17925578285714	
+Central and Southern Asia,2020,92.79071943142856	
+Central and Southern Asia,2021,93.41978599000001	
+Central and Southern Asia,2022,94.02671564857143	
+Central and Southern Asia,2023,94.56965132285714	
+Central and Southern Asia,2024,95.07358167714285	
+Eastern and South-Eastern Asia,2000,83.70102086777777	
+Eastern and South-Eastern Asia,2001,84.28785812888889	
+Eastern and South-Eastern Asia,2002,84.92258122666667	
+Eastern and South-Eastern Asia,2003,85.53769705555555	
+Eastern and South-Eastern Asia,2004,86.13788802333333	
+Eastern and South-Eastern Asia,2005,86.69112743333335	
+Eastern and South-Eastern Asia,2006,87.2203553777778	
+Eastern and South-Eastern Asia,2007,87.74105637777777	
+Eastern and South-Eastern Asia,2008,88.25511303	
+Eastern and South-Eastern Asia,2009,88.76534310111111	
+Eastern and South-Eastern Asia,2010,89.25451854222221	
+Eastern and South-Eastern Asia,2011,89.70166981555556	
+Eastern and South-Eastern Asia,2012,90.13741893111111	
+Eastern and South-Eastern Asia,2013,90.56446365666666	
+Eastern and South-Eastern Asia,2014,90.98313276666666	
+Eastern and South-Eastern Asia,2015,91.3933177088889	
+Eastern and South-Eastern Asia,2016,91.79278640777777	
+Eastern and South-Eastern Asia,2017,92.18372632888888	
+Eastern and South-Eastern Asia,2018,92.5662635611111	
+Eastern and South-Eastern Asia,2019,92.93836439444443	
+Eastern and South-Eastern Asia,2020,93.39022741777778	
+Eastern and South-Eastern Asia,2021,93.81153226666666	
+Eastern and South-Eastern Asia,2022,94.24340617888889	
+Eastern and South-Eastern Asia,2023,94.78387339555555	
+Eastern and South-Eastern Asia,2024,95.37845993875	
+Europe and Northern America,2000,98.51368776160001	
+Europe and Northern America,2001,98.5495581456	
+Europe and Northern America,2002,98.5950392336	
+Europe and Northern America,2003,98.6398749952	
+Europe and Northern America,2004,98.6873192664	
+Europe and Northern America,2005,98.73154778960001	
+Europe and Northern America,2006,98.7751009996	
+Europe and Northern America,2007,98.77397333230769	
+Europe and Northern America,2008,98.814426645	
+Europe and Northern America,2009,98.84684201185185	
+Europe and Northern America,2010,98.88436954037037	
+Europe and Northern America,2011,98.92118794333335	
+Europe and Northern America,2012,98.95864538111111	
+Europe and Northern America,2013,98.9991626962963	
+Europe and Northern America,2014,99.04237638962961	
+Europe and Northern America,2015,99.08322978777777	
+Europe and Northern America,2016,99.12130117888888	
+Europe and Northern America,2017,99.15876949000001	
+Europe and Northern America,2018,99.19009636925927	
+Europe and Northern America,2019,99.22090180592592	
+Europe and Northern America,2020,99.25119378407408	
+Europe and Northern America,2021,99.27008671814814	
+Europe and Northern America,2022,99.29230757407406	
+Europe and Northern America,2023,99.29612813407408	
+Europe and Northern America,2024,99.29813826074074	
+Latin America and the Caribbean,2000,91.18563206230768	
+Latin America and the Caribbean,2001,91.93393744034482	
+Latin America and the Caribbean,2002,92.20369228448277	
+Latin America and the Caribbean,2003,92.4675401196552	
+Latin America and the Caribbean,2004,92.69833427413795	
+Latin America and the Caribbean,2005,92.89407753655173	
+Latin America and the Caribbean,2006,93.08567422517243	
+Latin America and the Caribbean,2007,93.20436110448276	
+Latin America and the Caribbean,2008,93.32452299827585	
+Latin America and the Caribbean,2009,93.50403627068967	
+Latin America and the Caribbean,2010,93.6864507413793	
+Latin America and the Caribbean,2011,93.89978540000003	
+Latin America and the Caribbean,2012,94.11944847933333	
+Latin America and the Caribbean,2013,94.28280049166666	
+Latin America and the Caribbean,2014,94.44805818666669	
+Latin America and the Caribbean,2015,94.61029626100002	
+Latin America and the Caribbean,2016,94.76683910666665	
+Latin America and the Caribbean,2017,94.70834187	
+Latin America and the Caribbean,2018,94.74354645076922	
+Latin America and the Caribbean,2019,94.90966265346151	
+Latin America and the Caribbean,2020,94.92578908399999	
+Latin America and the Caribbean,2021,95.09585025958332	
+Latin America and the Caribbean,2022,95.23066895499998	
+Latin America and the Caribbean,2023,95.35592363374998	
+Latin America and the Caribbean,2024,95.46350737083334	
+Northern Africa and Western Asia,2000,93.05478776833333	
+Northern Africa and Western Asia,2001,93.28041617916666	
+Northern Africa and Western Asia,2002,93.50945018583333	
+Northern Africa and Western Asia,2003,93.74129593250001	
+Northern Africa and Western Asia,2004,93.97179330666667	
+Northern Africa and Western Asia,2005,94.20415938333332	
+Northern Africa and Western Asia,2006,94.43688547166664	
+Northern Africa and Western Asia,2007,94.66922952833333	
+Northern Africa and Western Asia,2008,94.9011708975	
+Northern Africa and Western Asia,2009,95.13260497583333	
+Northern Africa and Western Asia,2010,95.36524869416667	
+Northern Africa and Western Asia,2011,95.59823247083331	
+Northern Africa and Western Asia,2012,95.83193716833334	
+Northern Africa and Western Asia,2013,96.06512686916669	
+Northern Africa and Western Asia,2014,96.29732604499999	
+Northern Africa and Western Asia,2015,96.52423153000001	
+Northern Africa and Western Asia,2016,96.74209889833334	
+Northern Africa and Western Asia,2017,96.95939093666668	
+Northern Africa and Western Asia,2018,97.16340860666666	
+Northern Africa and Western Asia,2019,97.34393634916667	
+Northern Africa and Western Asia,2020,97.48825542916667	
+Northern Africa and Western Asia,2021,97.586040375	
+Northern Africa and Western Asia,2022,97.71254623833335	
+Northern Africa and Western Asia,2023,97.79638880416667	
+Northern Africa and Western Asia,2024,97.88022950916667	
+Oceania,2000,90.915100205	
+Oceania,2001,91.152447295	
+Oceania,2002,91.36450000500001	
+Oceania,2003,91.57574696666667	
+Oceania,2004,91.78705556833334	
+Oceania,2005,91.99834236666668	
+Oceania,2006,92.23332102166667	
+Oceania,2007,92.48661586166666	
+Oceania,2008,92.73567849166666	
+Oceania,2009,92.97231284333333	
+Oceania,2010,93.18786036833335	
+Oceania,2011,93.40160672500001	
+Oceania,2012,93.610982655	
+Oceania,2013,93.81563152833333	
+Oceania,2014,94.01830196166667	
+Oceania,2015,94.21890538666666	
+Oceania,2016,94.416687985	
+Oceania,2017,94.61144533333334	
+Oceania,2018,94.80328232333333	
+Oceania,2019,94.992165125	
+Oceania,2020,95.17798966833334	
+Oceania,2021,95.36082065666666	
+Oceania,2022,95.55717033833332	
+Oceania,2023,95.58810074333333	
+Oceania,2024,95.62425023833333	
+Sub-Saharan Africa,2000,57.60841545880002	
+Sub-Saharan Africa,2001,58.0813670892	
+Sub-Saharan Africa,2002,58.540401769199995	
+Sub-Saharan Africa,2003,59.042485064400005	
+Sub-Saharan Africa,2004,59.56891650320001	
+Sub-Saharan Africa,2005,60.096634908	
+Sub-Saharan Africa,2006,60.6560831504	
+Sub-Saharan Africa,2007,61.23045152560002	
+Sub-Saharan Africa,2008,61.81105942319999	
+Sub-Saharan Africa,2009,62.3797171012	
+Sub-Saharan Africa,2010,62.947115047999986	
+Sub-Saharan Africa,2011,63.52856202960002	
+Sub-Saharan Africa,2012,64.10048565480001	
+Sub-Saharan Africa,2013,64.66046617720002	
+Sub-Saharan Africa,2014,65.1957917756	
+Sub-Saharan Africa,2015,65.72896569359999	
+Sub-Saharan Africa,2016,66.27158296880002	
+Sub-Saharan Africa,2017,67.42356147124998	
+Sub-Saharan Africa,2018,68.07447731130434	
+Sub-Saharan Africa,2019,68.56797845347828	
+Sub-Saharan Africa,2020,69.02109894695654	
+Sub-Saharan Africa,2021,69.47131531652172	
+Sub-Saharan Africa,2022,69.43099875714286	
+Sub-Saharan Africa,2023,69.90823967761905	
+Sub-Saharan Africa,2024,70.4035950309524	
